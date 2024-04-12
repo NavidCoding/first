@@ -18,6 +18,7 @@ add file to git
 to commit the file
 
 -->git commit  //when ever u commit u need to pass a message
--->(message) git commit -m "My first Commit" 
+-->(message) git commit -m "My first Commit"
+-->(to skip the stage) git commit -a -m "My Skip Stage"
 
 //to updated the file u need to add file again 
