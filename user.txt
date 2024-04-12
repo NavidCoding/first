@@ -1,2 +1,0 @@
-name : preyu
-pass : 1323fsd
