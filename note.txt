@@ -22,3 +22,6 @@ to commit the file
 -->(to skip the stage) git commit -a -m "My Skip Stage"
 
 //to updated the file u need to add file again 
+
+to check file that change and not modifie or add to stage yet
+--> git diff
