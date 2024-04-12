@@ -1,0 +1,15 @@
+create a git repository 
+--> git init
+--> git init -b main (if dont use -b main the branch will on master)
+
+check 
+
+--> git status
+
+delete git 
+
+--> rm .git
+
+add file to git
+
+-->git add "filename.extension"
