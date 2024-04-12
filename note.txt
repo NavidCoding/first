@@ -15,6 +15,10 @@ add file to git
 
 -->git add <filename.extension>
 
+add all file to git
+
+--> git add.
+
 to commit the file
 
 -->git commit  //when ever u commit u need to pass a message
@@ -25,3 +29,4 @@ to commit the file
 
 to check file that change and not modifie or add to stage yet
 --> git diff
+--> git diff --staged (if file alreay at to stage)
