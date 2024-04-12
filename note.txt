@@ -5,6 +5,7 @@ create a git repository
 check 
 
 --> git status
+--> git log
 
 delete git 
 
@@ -12,4 +13,11 @@ delete git
 
 add file to git
 
--->git add "filename.extension"
+-->git add <filename.extension>
+
+to commit the file
+
+-->git commit  //when ever u commit u need to pass a message
+-->(message) git commit -m "My first Commit" 
+
+//to updated the file u need to add file again 
