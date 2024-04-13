@@ -17,7 +17,7 @@ add file to git
 
 add all file to git
 
---> git add.
+--> git add -A
 
 to commit the file
 
@@ -30,3 +30,10 @@ to commit the file
 to check file that change and not modifie or add to stage yet
 --> git diff
 --> git diff --staged (if file alreay at to stage)
+
+to delete fil from git
+--> git rm -cached <filename>
+
+to connect ur device to ssh(ssh no need to use username and pas)
+-->ssh key-gen -o
+:)
