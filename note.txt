@@ -48,3 +48,6 @@ to view tag
 
 to view informaion about tag 
 -->git show <version number>
+
+to add tag to github server
+-->git push origin <version number>
