@@ -39,3 +39,12 @@ to connect ur device to ssh(ssh no need to use username and pas)
 
 to add file to github server 
 -->git push origin main
+
+to give tag to git(more information)
+-->git tag -a <version number> -m "message"
+
+to view tag 
+-->git tag
+
+to view informaion about tag 
+-->git show <version number>
