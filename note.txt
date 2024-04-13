@@ -51,3 +51,6 @@ to view informaion about tag
 
 to add tag to github server
 -->git push origin <version number>
+
+merge the branch
+-->git merge <the branch you wanna merge with>
