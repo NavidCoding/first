@@ -36,4 +36,6 @@ to delete fil from git
 
 to connect ur device to ssh(ssh no need to use username and pas)
 -->ssh key-gen -o
-:)
+
+to add file to github server 
+-->git push origin main
