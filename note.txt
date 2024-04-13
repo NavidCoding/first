@@ -52,14 +52,3 @@ to view informaion about tag
 
 to add tag to github server
 -->git push origin <version number>
-
-to create new branch 
--->git checkout -b <branch name>
--->git switch -c <branch name>
--->git switch <branch name> (switch branch)
--->git switch -(get back to previous branch)
--->git branch --all(to show all branch)
--->git branch -d <branch name>
-
-to merge the branch
--->git merge <branch u wanna merge with>
